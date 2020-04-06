@@ -1,7 +1,7 @@
 # YukiUchida
 内田有纪的照片
 
-![Yuki(1)](./pics/Yuki(1) "内田有纪")
+![Yuki(1)](./pics/Yuki (1).jpg "内田有纪")
 ![Yuki(2)](Yuki(2) "内田有纪")
 ![Yuki(3)](Yuki(3) "内田有纪")
 ![Yuki(4)](Yuki(4) "内田有纪")
